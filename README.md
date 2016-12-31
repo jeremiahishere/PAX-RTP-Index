@@ -4,7 +4,7 @@
 
 ----
 
-This repository contains RTP/PAX data in a machine-readable format.
+This repository contains RTP/PAX data in a machine-readable format.  The values are used in Solo/Autocross events.
 
 * **Available File Types:**
   * JSON
